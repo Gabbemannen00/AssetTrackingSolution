@@ -1,0 +1,13 @@
+# Ignore all SQLite-databases to keep secret information safe
+*.db
+
+# Ignore backup-files
+*.save
+
+# Ignore cache and temporary Python-files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore eventual logfiles
+*.log
