@@ -32,4 +32,3 @@ def start_client():
 if __name__ == "__main__":
     time.sleep(1.5) # wait a little before running again
     start_client() 
-pi@raspberrypi:~/RnD/Gabbemannen00/pi_zero/scripts $ 
