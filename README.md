@@ -83,19 +83,14 @@ AssetTrackingSolution/
 *(Adding hardware setup images here for visual reference.*
 
 ```
-![Pico W Breadboard Setup](images/pico_w_setup.jpg)
 
-![20250521_113157](https://github.com/user-attachments/assets/325e7dbe-0a6a-43e6-8b55-af388072b30c)
 
-![20250521_115137](https://github.com/user-attachments/assets/942e1541-2fab-48b1-9746-6a05df62a354)
-
-![Pi Zero Server Setup](images/pi_zero_setup.jpg)
 
 
 ``` 
 ## 📌 Notes
 
-* No active tag-scanning was ever implemented, and no UHF antenna was used.
+* No active tag-scanning was implemented, and no UHF antenna was used.
 * Passive RFID tags are read directly from the MFRC522 reader mounted on the breadboard.
 * Mesh networking and handheld RFID readers were not used in this prototype.
 * This project is still under development—there are still many ways to develop the code and add hardware components to make the system more robust and powerful.
