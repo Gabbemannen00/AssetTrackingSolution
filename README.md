@@ -83,7 +83,7 @@ AssetTrackingSolution/
 ## 📸 Hardware Images (for visual reference)
 
 *(Raspberry Pi Pico hardware setup, including breadboard wiring with RFID-reader, LCD, LED:s and button)*
-
+Pictures are coming up soon.
 --
 
 ## Raspberry Pi Zero 2 W Setup 
