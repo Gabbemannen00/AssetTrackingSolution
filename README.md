@@ -11,7 +11,7 @@ This project is an **IoT-based asset tracking system** designed to monitor RFID-
 
 ```
 AssetTrackingSolution/
-├── pi_zero/        # Backend server: Flask app + SQLite + test clients
+├── pi_zero/        # Backend server: Flask app + SQLite + test- and autoclient
 └── pico_w/         # Sensor unit: RFID reading + LEDs + LCD + Wi-Fi TCP client
 ```
 
