@@ -57,7 +57,7 @@ AssetTrackingSolution/
 * Connected via Wi-Fi to the same network as the Pico W.
 * Runs `app.py` which is the Flask server and listens for incoming RFID data.
 * Connects to the SQLite database to store scan records.
-* Connected with usb- to micro-usb cables .
+* Connected with usb- to micro-usb cables.
 
 ## 🧰 Hardware Overview
 
@@ -83,7 +83,16 @@ AssetTrackingSolution/
 ## 📸 Hardware Images (for visual reference)
 
 *(Raspberry Pi Pico hardware setup, including breadboard wiring with RFID-reader, LCD, LED:s and button)*
-Pictures are coming up soon.
+
+![20250530_110418](https://github.com/user-attachments/assets/c2ce1275-5d62-4151-a7e7-37bfe0751fb6)
+
+
+![20250530_110648](https://github.com/user-attachments/assets/5b480b30-9e93-4b12-bd87-146c40def5c2)
+
+
+![20250530_110727](https://github.com/user-attachments/assets/63a20744-c471-45f5-b786-747fec7fa641)
+
+
 --
 
 ## Raspberry Pi Zero 2 W Setup 
@@ -109,7 +118,7 @@ Pictures are coming up soon.
 
 ![Hub is powered](https://github.com/user-attachments/assets/e1b725a9-1f80-451e-a7d2-d18216bb3771)
 
-By connecting this cable to the hub, the hub gets power directly from the pc, and all 4 ports become available for you to connect to Pi Zero.
+The hub is now powered from the computer and shines blue.
 
 #### Prepare your SD-Card with OS 
 
@@ -117,7 +126,7 @@ By connecting this cable to the hub, the hub gets power directly from the pc, an
 
 ![Pi Zero placed in the case](https://github.com/user-attachments/assets/bb436b4c-ae57-41ef-a2e7-436fbb149fcf)
 
-⚠️ Before you plug in the SD-card into Pi Zero, make sure you have a Raspberry Pi operativesystem pre-installed.
+⚠️ Before you plug in the SD-card into Pi Zero, make sure you have a raspberry pi operating system pre-installed.
 
 You can install any OS on https://www.raspberrypi.com/software/. Otherwise you are good to go and then place Pi Zero into the case.
 
@@ -147,13 +156,13 @@ Now you will see Pi Zero's light start to blink, its because its booting. When t
 
 ![Micro-USB-male to USB-female adapter connected](https://github.com/user-attachments/assets/5ca2cf66-90fd-4107-ba21-c9613bc4ed1c)
 
-You are going to need a micro-USB male to micro-USB female adapter for data transmissions to work properly. Make sure to connect the adapter's micro USB male to the middle port on Pi Zero and then plug the hub's USB cable to female.
+You are going to need a micro-USB male to micro-USB female adapter for data transmissions to work properly. Make sure to connect the adapter's micro USB male to the middle port on Pi Zero and then plug the hub's USB cable to female of the adapter.
 
 #### 6️⃣ Connect screen (Optionally). Skip this? Go straight to step 7
 
 ![Holding HDMI-cable](https://github.com/user-attachments/assets/7feb6733-16f8-4475-85d5-d5e39de13c9a)
 
-First you need an ordinary HDMI-cable which i assume that you already have. If not you need to buy one fast as f**k.
+First you need an ordinary HDMI-cable which i assume that you already have.
 
 ![Holding HDMI-female adapter to mini-HDMI-male](https://github.com/user-attachments/assets/c055f722-a4f8-4870-8196-7d58ffafbbd8)
 
