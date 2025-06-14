@@ -93,8 +93,6 @@ AssetTrackingSolution/
 ![20250530_110727](https://github.com/user-attachments/assets/63a20744-c471-45f5-b786-747fec7fa641)
 
 
---
-
 ## Raspberry Pi Zero 2 W Setup 
 
 ### 1️⃣ All hardware parts needed: 
